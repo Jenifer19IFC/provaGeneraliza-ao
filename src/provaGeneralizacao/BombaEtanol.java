@@ -1,4 +1,4 @@
-package provaGeneralizaçao;
+package provaGeneralizacao;
 
 public class BombaEtanol extends Bomba{
 	
